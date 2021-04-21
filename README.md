@@ -1,1 +1,1 @@
-# RPRE This is a reattempt at the Rocket Patrol Tutorial as something broke, I got frustrated and decided it would be easier to restart as opposed to trying to fix the error as I tried for quiete a while with no success.
+Remake 3 is really just an extension of 2 after there was a point the program brutally broke and I just downloaded 2's git into a new file and was too lazy to not try to fix 2's git so I simply made a new one. 
